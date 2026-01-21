@@ -4,4 +4,4 @@ function ReviewsPage() {
   return <div>ReviewsPage</div>;
 }
 
-export default page;
+export default ReviewsPage;
